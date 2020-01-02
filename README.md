@@ -1,0 +1,2 @@
+# eqgen
+QtPyVCP Expression Generator
